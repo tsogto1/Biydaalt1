@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff460c72-41aa-4edf-a1d0-219ed6236e21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Biydaalt1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UB_Path_finder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/.idea/BackEnd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/APIServer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/AlgorithmProofs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/CoordinateUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/GraphBuilder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/PathAnalyzer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/PathFinder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/PerformanceTracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/RoadGraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/UlaanbaatarPathFinder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/check_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_buildings_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_buildings_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_buildings_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_buildings_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_buildings_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_landuse_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_landuse_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_landuse_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_landuse_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_landuse_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_natural_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_places_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pofw_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_pois_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_railways_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_railways_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_railways_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_railways_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_railways_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_roads_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_roads_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_roads_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_roads_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_roads_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_traffic_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_transport_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_water_a_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_water_a_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_water_a_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_water_a_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_water_a_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_waterways_free_1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_waterways_free_1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_waterways_free_1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_waterways_free_1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/data/gis_osm_waterways_free_1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/test_path_finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_landuse_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_landuse_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_landuse_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_landuse_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_natural_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_places_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pofw_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_pois_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_railways_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_railways_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_railways_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_railways_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_roads_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_roads_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_roads_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_roads_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_traffic_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_transport_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_water_a_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_water_a_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_water_a_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_water_a_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_waterways_free_1.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_waterways_free_1.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_waterways_free_1.shp" beforeDir="false" afterPath="$PROJECT_DIR$/Biydaalt1/BackEnd/data/gis_osm_waterways_free_1.shp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biydaalt1/Frontend/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="35y5BgFRRKV1njcPJFqCKOTRGMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff460c72-41aa-4edf-a1d0-219ed6236e21" name="Changes" comment="" />
+      <created>1764069338191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764069338191</updated>
+      <workItem from="1764069341109" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
